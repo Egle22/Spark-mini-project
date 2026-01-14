@@ -2,6 +2,10 @@
 
 Analysis of gas station prices across France using PySpark for distributed data processing, visualization, and machine learning.
 
+## Authors 
+- Giovanni Contento
+- Egle Caudullo
+
 ## Project Overview
 
 This project analyzes three years of daily gas price data from French stations to understand pricing patterns and build forecasting models. The analysis includes data processing with Spark, temporal visualizations, and ML-based price predictions.
