@@ -6,14 +6,6 @@ Analysis of gas station prices across France using PySpark for distributed data 
 
 This project analyzes three years of daily gas price data from French stations to understand pricing patterns and build forecasting models. The analysis includes data processing with Spark, temporal visualizations, and ML-based price predictions.
 
-## Structure
-
-```
-├── notebooks/
-│   └── gas_consumption_analysis.ipynb    # Main analysis
-├── data/                                  # Raw data (not tracked)
-└── README.md
-```
 
 ## Data Source
 
